@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="pregunta_cielo">El cielo esta nublado</string>
+    <string name="pregunta_lluvia">hoy llovera</string>
+    <string name="pregunta_clima">te gusta este clima</string>
+    <string name="pregunta_lugar">te gusta el lugar</string>
+
+    <string name="true_button">true</string>
+    <string name="false_button">false</string>
+    <string name="correct_toast">Correcto</string>
+    <string name="incorrect_toast">Incorrecto</string>
+    <string name="next_button">Siguiente pregunta</string>
+</resources>
